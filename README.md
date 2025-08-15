@@ -2,6 +2,8 @@
 
 A complete end-to-end machine learning project for sentiment analysis of IMDB movie reviews. This project demonstrates data cleaning, feature engineering, classical ML, deep learning, and deployment via a Flask API and Streamlit frontend.
 
+## lIVE LINK:https://depseanmovie-reviews-3few29xxbtetyrtws6l7bj.streamlit.app/
+
 ## Features
 - **Data Exploration & Cleaning**: Jupyter notebook for EDA and preprocessing
 - **Classical ML Model**: Logistic Regression with TF-IDF features
