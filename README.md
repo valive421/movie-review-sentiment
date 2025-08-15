@@ -10,6 +10,16 @@ A complete end-to-end machine learning project for sentiment analysis of IMDB mo
 - **Frontend**: Streamlit web app for user interaction
 - **Automated Testing**: Python script to test the API
 
+
+## DEMO
+
+
+https://github.com/user-attachments/assets/3f5096ea-ebd0-4204-9a7b-c49c4192b19e
+
+
+
+
+
 ## Project Structure
 ```
 project/
