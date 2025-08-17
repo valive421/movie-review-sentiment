@@ -114,8 +114,6 @@ print(response.json())
 - [TensorFlow/Keras](https://www.tensorflow.org/)
 - [Streamlit](https://streamlit.io/)
 
-## License
-This project is licensed under the MIT License.
 
 ---
 
